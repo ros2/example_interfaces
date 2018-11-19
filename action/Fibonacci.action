@@ -2,7 +2,6 @@
 int32 order
 ---
 # Result
----
 int32[] sequence
 ---
 # Feedback
