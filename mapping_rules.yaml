@@ -6,8 +6,3 @@
   ros1_service_name: 'TwoInts'
   ros2_package_name: 'example_interfaces'
   ros2_service_name: 'AddTwoInts'
--
-  ros1_package_name: 'actionlib_tutorials'
-  ros1_action_name: 'Fibonacci'
-  ros2_package_name: 'example_interfaces'
-  ros2_action_name: 'Fibonacci'
