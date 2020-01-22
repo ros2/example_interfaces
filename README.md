@@ -1,4 +1,6 @@
 ROS 2 examples
 ==============
 
-For instructions on how to try out our examples see the ROS 2 wiki: https://github.com/ros2/ros2/wiki
+Tutorial on how to try out the examples: 
+* [Writing a simple service and client C++](https://index.ros.org/doc/ros2/Tutorials/Writing-A-Simple-Cpp-Service-And-Client/)
+* [Writing a simple service and client Python](https://index.ros.org/doc/ros2/Tutorials/Writing-A-Simple-Py-Service-And-Client/)
