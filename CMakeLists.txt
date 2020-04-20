@@ -16,6 +16,7 @@ find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "action/Fibonacci.action"
   "srv/AddTwoInts.srv"
+  ADD_LINTER_TESTS
 )
 
 install(FILES mapping_rules.yaml DESTINATION share/${PROJECT_NAME})
