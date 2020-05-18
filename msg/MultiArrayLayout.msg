@@ -1,3 +1,7 @@
+# This is an example of using complex datatypes.
+# It is not recommended to use directly.
+# To use a similar datastruct please define a custom message with appropriate semantic meaning.
+
 # The multiarray declares a generic multi-dimensional array of a
 # particular data type.  Dimensions are ordered from outer most
 # to inner most.
