@@ -2,9 +2,6 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
-
 0.9.2 (2021-04-06)
 ------------------
 * Change links from index.ros.org -> docs.ros.org. (`#13 <https://github.com/ros2/example_interfaces/issues/13>`_)
