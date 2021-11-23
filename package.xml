@@ -4,10 +4,13 @@
   <name>example_interfaces</name>
   <version>0.9.2</version>
   <description>Contains message and service definitions used by the examples.</description>
-  <maintainer email="jacob@openrobotics.org">Jacob Perron</maintainer>
+
+  <maintainer email="mabel@openrobotics.org">Mabel Zhang</maintainer>
+
   <license>Apache License 2.0</license>
 
   <author email="dthomas@openrobotics.org">Dirk Thomas</author>
+  <author email="jacob@openrobotics.org">Jacob Perron</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
