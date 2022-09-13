@@ -2,8 +2,8 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.10.1 (2022-09-13)
+-------------------
 * Remove action_msgs dependency (`#16 <https://github.com/ros2/example_interfaces/issues/16>`_)
 * Mirror rolling to master
 * Contributors: Audrow Nash, Jacob Perron
