@@ -2,6 +2,11 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* [rolling] Update maintainers - 2022-11-07 (`#17 <https://github.com/ros2/example_interfaces/issues/17>`_)
+* Contributors: Audrow Nash
+
 0.10.1 (2022-09-13)
 -------------------
 * Remove action_msgs dependency (`#16 <https://github.com/ros2/example_interfaces/issues/16>`_)
