@@ -2,6 +2,9 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.11.0 (2023-04-27)
+-------------------
+
 0.10.2 (2023-02-13)
 -------------------
 * [rolling] Update maintainers - 2022-11-07 (`#17 <https://github.com/ros2/example_interfaces/issues/17>`_)
