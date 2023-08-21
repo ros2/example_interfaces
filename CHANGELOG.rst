@@ -2,6 +2,11 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Update to C++17. (`#18 <https://github.com/ros2/example_interfaces/issues/18>`_)
+* Contributors: Chris Lalancette
+
 0.11.0 (2023-04-27)
 -------------------
 
