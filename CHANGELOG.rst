@@ -2,6 +2,12 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.14.0 (2025-04-25)
+-------------------
+* Remove .github/ISSUE_TEMPLATE.md (old version of templates) (`#21 <https://github.com/ros2/example_interfaces/issues/21>`_)
+* Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#19 <https://github.com/ros2/example_interfaces/issues/19>`_)
+* Contributors: Chris Lalancette, Tomoya Fujita
+
 0.13.0 (2024-04-26)
 -------------------
 
