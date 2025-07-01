@@ -2,6 +2,11 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fix cmake deprecation (`#23 <https://github.com/ros2/example_interfaces/issues/23>`_)
+* Contributors: mosfet80
+
 0.14.0 (2025-04-25)
 -------------------
 * Remove .github/ISSUE_TEMPLATE.md (old version of templates) (`#21 <https://github.com/ros2/example_interfaces/issues/21>`_)
