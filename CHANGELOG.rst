@@ -2,6 +2,15 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#19 <https://github.com/ros2/example_interfaces/issues/19>`_) (`#20 <https://github.com/ros2/example_interfaces/issues/20>`_)
+  They are both outdated and both no longer serving their
+  intended purpose.
+  (cherry picked from commit 00cb25584ab611c34686e024a06a47728550ef72)
+  Co-authored-by: Chris Lalancette <clalancette@gmail.com>
+* Contributors: mergify[bot]
+
 0.12.0 (2023-08-21)
 -------------------
 * Update to C++17. (`#18 <https://github.com/ros2/example_interfaces/issues/18>`_)
