@@ -2,8 +2,8 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.12.1 (2026-06-02)
+-------------------
 * Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#19 <https://github.com/ros2/example_interfaces/issues/19>`_) (`#20 <https://github.com/ros2/example_interfaces/issues/20>`_)
   They are both outdated and both no longer serving their
   intended purpose.
