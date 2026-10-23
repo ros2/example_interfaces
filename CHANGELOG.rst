@@ -2,6 +2,12 @@
 Changelog for package example_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.15.1 (2026-10-23)
+-------------------
+* Use the SPDX identifier Apache-2.0 in package.xml license tags (`#26 <https://github.com/ros2/example_interfaces//issues/26>`_)
+* use C++ 20 in default. (`#25 <https://github.com/ros2/example_interfaces//issues/25>`_)
+* Contributors: Michael Carroll, Tomoya Fujita
+
 0.15.0 (2026-05-06)
 -------------------
 
